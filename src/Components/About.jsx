@@ -24,7 +24,7 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "I'm a Software Engineer student studying at Kirinyaga University. I enjoy creating innovative and simplistic websites that create a positive impact.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
@@ -32,11 +32,10 @@ const description =
  */
 const skillsList = [
   "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
-  "Graphic design",
+  "Technical Writing",
+  "Innovation",
+  "Public Speaking",
+  "Presentations",
 ];
 
 /**
@@ -44,8 +43,15 @@ const skillsList = [
  * how you best work, or even a quote. This will help someone learn more
  * about you on a professional level.
  */
-const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+const detailOrQuote = `A passionate and driven tech personnel bridging the realms of technology
+ and philosophy. Currently excelling as a Fullstack Developer Trainee at The Jitu, gaining
+  hands-on experience in developing robust applications. Also serving as a Microsoft
+   Learn Student Ambassador for Kirinyaga University, promoting positive impact and
+    fostering a vibrant tech community. With a notable background as a KamiLimu 
+    alumnus as a mentee and participation in esteemed events like Microsoft Imagine 
+    Cup and Game of Learners Season 3 Hackathon, I bring a proven track record of success. 
+    Eager to contribute to cutting-edge projects that combine technology and philosophy,
+     I'm ready to connect and make a significant impact to the world.`;
 
 const About = () => {
   return (

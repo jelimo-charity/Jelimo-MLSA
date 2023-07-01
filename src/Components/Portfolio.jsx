@@ -31,28 +31,29 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
-    description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+    title: "What is progress really like?",
+    description: `“When nothing seems to help, I go and look at a stonecutter hammering 
+    away at his rock, perhaps a hundred times without as much as a crack showing in it.
+     Yet at the hundred and first blow it will split in two, and I know it was not that
+      last blow that did it — but all that had gone before.” -Jacob A. Riis.`,
+    url: "https://medium.com/@charityjelimo/what-is-progress-really-like-b23e565862e9",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Introduction to Reactjs.",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "This is an article featuring an introduction to React js and all I have learnt in one week with the guidance of Lux Academy. I'm super excited to start this journey and get my hands dirty.",
+    url: "https://charityjelimo.hashnode.dev/week-one-with-react-js",
   },
   {
-    title: "My Resume Site",
-    description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+    title: "The Present.",
+    description: `The world is a classroom to teach us something about ourselves. With every experience I’m
+   learning to ask myself, “What is this really about? What am I supposed to learn?”.Every experience is a gift that forces us to move right or left to find a new center of gravity. And balance lives in the moment.`,
+    url: "https://medium.com/@charityjelimo/taking-the-road-to-an-enlightened-healthy-existence-8f4040a7ccc2",
   },
   {
-    title: "GitHub Codespaces and github.dev",
-    description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+    title: "SyncCliA Website",
+    description: "A website that promotes climate action",
+    url: "https://witty-cliff-0dc13a30f.3.azurestaticapps.net/",
   },
 ];
 
