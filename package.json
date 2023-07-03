@@ -3,11 +3,11 @@
   "version": "1.0.0",
   "description": "Educator JS Codespace Template",
   "source": "src/index.html",
-  "homepage": "https://github.com/jelimo-charity.github.io/Jelimo-MLSA",
+  "homepage": "https://jelimo-charity.github.io/Jelimo-MLSA",
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
-    "build-gh": "parcel build --public-url 'https://github.com/jelimo-charity.github.io/Jelimo-MLSA'",
+    "build-gh": "parcel build --public-url 'https://jelimo-charity.github.io/Jelimo-MLSA'",
     "predeploy": "npm run build-gh",
     "deploy": "gh-pages -d dist"
   },
