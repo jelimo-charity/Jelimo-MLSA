@@ -7,4 +7,5 @@ import { render } from "react-dom";
 
 import App from "./App";
 
+// eslint-disable-next-line prettier/prettier
 render(<App></App>, document.getElementById("app"));
